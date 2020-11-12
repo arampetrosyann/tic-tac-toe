@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe/static/css/main.f0d9cac6.chunk.css",
+    "main.js": "/tic-tac-toe/static/js/main.697f169e.chunk.js",
+    "main.js.map": "/tic-tac-toe/static/js/main.697f169e.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe/static/js/runtime-main.f71cfbf0.js",
+    "runtime-main.js.map": "/tic-tac-toe/static/js/runtime-main.f71cfbf0.js.map",
+    "static/js/2.f2dfe6fc.chunk.js": "/tic-tac-toe/static/js/2.f2dfe6fc.chunk.js",
+    "static/js/2.f2dfe6fc.chunk.js.map": "/tic-tac-toe/static/js/2.f2dfe6fc.chunk.js.map",
+    "static/js/3.43dfc3f0.chunk.js": "/tic-tac-toe/static/js/3.43dfc3f0.chunk.js",
+    "static/js/3.43dfc3f0.chunk.js.map": "/tic-tac-toe/static/js/3.43dfc3f0.chunk.js.map",
+    "index.html": "/tic-tac-toe/index.html",
+    "static/css/main.f0d9cac6.chunk.css.map": "/tic-tac-toe/static/css/main.f0d9cac6.chunk.css.map",
+    "static/js/2.f2dfe6fc.chunk.js.LICENSE.txt": "/tic-tac-toe/static/js/2.f2dfe6fc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tic-tac-toe/static/media/PoiretOne-Regular.a453ae9b.ttf",
+    "static/media/btn-click.9c1ee9ca.mp3": "/tic-tac-toe/static/media/btn-click.9c1ee9ca.mp3",
+    "static/media/hit-thin.d10f2d51.wav": "/tic-tac-toe/static/media/hit-thin.d10f2d51.wav"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f71cfbf0.js",
+    "static/js/2.f2dfe6fc.chunk.js",
+    "static/css/main.f0d9cac6.chunk.css",
+    "static/js/main.697f169e.chunk.js"
+  ]
+}
