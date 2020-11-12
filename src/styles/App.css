@@ -1,8 +1,15 @@
 .App {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
   padding: 10px;
+  color: #f5f5f5;
   background-color: #055;
+  font-family: "Poiret";
+}
+
+.winbox {
+  font-family: "Pacifico";
 }
