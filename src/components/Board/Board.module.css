@@ -1,0 +1,7 @@
+.brd {
+  display: grid;
+  grid-template-columns: repeat(3, auto);
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+}
